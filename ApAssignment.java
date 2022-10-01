@@ -24,6 +24,9 @@ public class ApAssignment {
 
         int input = 0;
         while(input!=8){
+            System.out.println("This is a simulation for covid vaccine portal");
+            System.out.println("----------------------------------------");
+            System.out.println("----------------------------------------");
             System.out.println("CoWin Portal initialized....");
             System.out.println("----------------------------------------");
             System.out.println("1. Add Vaccine");
